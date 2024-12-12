@@ -13,5 +13,5 @@ This is very unfortunate, as it was one of my favourite!
 Some links:
 
 - [Facebook page of the original developer](https://www.facebook.com/theincrediblecompany), not maintained
-- [Original game APK](https://www.apk4fun.com/games/com.theincrediblecompany.alcazar2/#description) to load it on your Android (untortunately not compatible with Android 11)
+- [Original game APK](https://www.apk4fun.com/games/com.theincrediblecompany.alcazar2/#description) to load it on your Android (unfortunately not compatible with Android 11)
 - [Dead link to the old website](www.theincrediblecompany.com/try-alcazar)
