@@ -8,5 +8,5 @@ Not a lot of traces of this game remain. It seems the original developer was not
 
 Some links:
 - [Facebook page of the original developer](https://www.facebook.com/theincrediblecompany), not maintained
-- [Original game APK](https://www.apk4fun.com/games/com.theincrediblecompany.alcazar2/#description) to load it on your Android
+- [Original game APK](https://www.apk4fun.com/games/com.theincrediblecompany.alcazar2/#description) to load it on your Android (unfortunately not compatible with Android 11)
 - [Dead link to the old website](www.theincrediblecompany.com/try-alcazar)
